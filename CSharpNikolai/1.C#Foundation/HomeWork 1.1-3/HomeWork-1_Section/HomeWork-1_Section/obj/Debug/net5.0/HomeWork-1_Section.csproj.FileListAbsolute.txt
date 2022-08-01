@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\bin\Debug\net5.0\HomeWork-1_Section.exe
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\bin\Debug\net5.0\HomeWork-1_Section.deps.json
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\bin\Debug\net5.0\HomeWork-1_Section.runtimeconfig.json
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\bin\Debug\net5.0\HomeWork-1_Section.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\bin\Debug\net5.0\HomeWork-1_Section.dll
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\bin\Debug\net5.0\ref\HomeWork-1_Section.dll
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\bin\Debug\net5.0\HomeWork-1_Section.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\HomeWork-1_Section.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\HomeWork-1_Section.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\HomeWork-1_Section.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\HomeWork-1_Section.AssemblyInfo.cs
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\HomeWork-1_Section.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\HomeWork-1_Section.dll
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\ref\HomeWork-1_Section.dll
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\HomeWork-1_Section.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\HomeWork 1.1-3\HomeWork-1_Section\HomeWork-1_Section\obj\Debug\net5.0\HomeWork-1_Section.genruntimeconfig.cache

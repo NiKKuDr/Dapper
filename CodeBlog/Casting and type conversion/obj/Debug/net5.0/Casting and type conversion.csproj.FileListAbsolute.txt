@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\Casting and type conversion\bin\Debug\net5.0\Casting and type conversion.exe
+C:\Users\nikol\Workspace\Casting and type conversion\bin\Debug\net5.0\Casting and type conversion.deps.json
+C:\Users\nikol\Workspace\Casting and type conversion\bin\Debug\net5.0\Casting and type conversion.runtimeconfig.json
+C:\Users\nikol\Workspace\Casting and type conversion\bin\Debug\net5.0\Casting and type conversion.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\Casting and type conversion\bin\Debug\net5.0\Casting and type conversion.dll
+C:\Users\nikol\Workspace\Casting and type conversion\bin\Debug\net5.0\ref\Casting and type conversion.dll
+C:\Users\nikol\Workspace\Casting and type conversion\bin\Debug\net5.0\Casting and type conversion.pdb
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\Casting and type conversion.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\Casting and type conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\Casting and type conversion.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\Casting and type conversion.AssemblyInfo.cs
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\Casting and type conversion.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\Casting and type conversion.dll
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\ref\Casting and type conversion.dll
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\Casting and type conversion.pdb
+C:\Users\nikol\Workspace\Casting and type conversion\obj\Debug\net5.0\Casting and type conversion.genruntimeconfig.cache

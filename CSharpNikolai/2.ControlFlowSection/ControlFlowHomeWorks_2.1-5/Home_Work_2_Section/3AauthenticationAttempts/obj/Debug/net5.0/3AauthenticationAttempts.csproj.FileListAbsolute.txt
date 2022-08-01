@@ -1,0 +1,15 @@
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\bin\Debug\net5.0\3AauthenticationAttempts.exe
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\bin\Debug\net5.0\3AauthenticationAttempts.deps.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\bin\Debug\net5.0\3AauthenticationAttempts.runtimeconfig.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\bin\Debug\net5.0\3AauthenticationAttempts.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\bin\Debug\net5.0\3AauthenticationAttempts.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\bin\Debug\net5.0\ref\3AauthenticationAttempts.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\bin\Debug\net5.0\3AauthenticationAttempts.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\obj\Debug\net5.0\3AauthenticationAttempts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\obj\Debug\net5.0\3AauthenticationAttempts.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\obj\Debug\net5.0\3AauthenticationAttempts.AssemblyInfo.cs
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\obj\Debug\net5.0\3AauthenticationAttempts.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\obj\Debug\net5.0\3AauthenticationAttempts.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\obj\Debug\net5.0\ref\3AauthenticationAttempts.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\obj\Debug\net5.0\3AauthenticationAttempts.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\3AauthenticationAttempts\obj\Debug\net5.0\3AauthenticationAttempts.genruntimeconfig.cache

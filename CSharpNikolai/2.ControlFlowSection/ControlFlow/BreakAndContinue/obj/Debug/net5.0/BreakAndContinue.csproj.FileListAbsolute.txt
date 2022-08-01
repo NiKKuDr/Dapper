@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.exe
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.deps.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.runtimeconfig.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\bin\Debug\net5.0\ref\BreakAndContinue.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.AssemblyInfo.cs
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\ref\BreakAndContinue.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.genruntimeconfig.cache

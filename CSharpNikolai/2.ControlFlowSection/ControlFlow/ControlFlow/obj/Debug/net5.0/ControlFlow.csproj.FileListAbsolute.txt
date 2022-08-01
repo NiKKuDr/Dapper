@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.exe
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.deps.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.runtimeconfig.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\bin\Debug\net5.0\ref\ControlFlow.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\bin\Debug\net5.0\ControlFlow.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.AssemblyInfo.cs
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ref\ControlFlow.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\ControlFlow\obj\Debug\net5.0\ControlFlow.genruntimeconfig.cache

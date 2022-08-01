@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\bin\Debug\net5.0\CyclesForForeach.exe
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\bin\Debug\net5.0\CyclesForForeach.deps.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\bin\Debug\net5.0\CyclesForForeach.runtimeconfig.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\bin\Debug\net5.0\CyclesForForeach.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\bin\Debug\net5.0\CyclesForForeach.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\bin\Debug\net5.0\ref\CyclesForForeach.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\bin\Debug\net5.0\CyclesForForeach.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\CyclesForForeach.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\CyclesForForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\CyclesForForeach.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\CyclesForForeach.AssemblyInfo.cs
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\CyclesForForeach.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\CyclesForForeach.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\ref\CyclesForForeach.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\CyclesForForeach.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlow\CyclesForForeach\obj\Debug\net5.0\CyclesForForeach.genruntimeconfig.cache

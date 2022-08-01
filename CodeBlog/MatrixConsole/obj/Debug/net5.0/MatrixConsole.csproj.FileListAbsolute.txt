@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\MatrixConsole\bin\Debug\net5.0\MatrixConsole.exe
+C:\Users\nikol\Workspace\MatrixConsole\bin\Debug\net5.0\MatrixConsole.deps.json
+C:\Users\nikol\Workspace\MatrixConsole\bin\Debug\net5.0\MatrixConsole.runtimeconfig.json
+C:\Users\nikol\Workspace\MatrixConsole\bin\Debug\net5.0\MatrixConsole.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\MatrixConsole\bin\Debug\net5.0\MatrixConsole.dll
+C:\Users\nikol\Workspace\MatrixConsole\bin\Debug\net5.0\ref\MatrixConsole.dll
+C:\Users\nikol\Workspace\MatrixConsole\bin\Debug\net5.0\MatrixConsole.pdb
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\MatrixConsole.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\MatrixConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\MatrixConsole.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\MatrixConsole.AssemblyInfo.cs
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\MatrixConsole.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\MatrixConsole.dll
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\ref\MatrixConsole.dll
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\MatrixConsole.pdb
+C:\Users\nikol\Workspace\MatrixConsole\obj\Debug\net5.0\MatrixConsole.genruntimeconfig.cache

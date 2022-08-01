@@ -1,0 +1,15 @@
+C:\Users\nikol\Workspace\MetConst\MetConst\bin\Debug\net6.0\MetConst.exe
+C:\Users\nikol\Workspace\MetConst\MetConst\bin\Debug\net6.0\MetConst.deps.json
+C:\Users\nikol\Workspace\MetConst\MetConst\bin\Debug\net6.0\MetConst.runtimeconfig.json
+C:\Users\nikol\Workspace\MetConst\MetConst\bin\Debug\net6.0\MetConst.dll
+C:\Users\nikol\Workspace\MetConst\MetConst\bin\Debug\net6.0\MetConst.pdb
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\MetConst.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\MetConst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\MetConst.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\MetConst.AssemblyInfo.cs
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\MetConst.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\MetConst.dll
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\refint\MetConst.dll
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\MetConst.pdb
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\MetConst.genruntimeconfig.cache
+C:\Users\nikol\Workspace\MetConst\MetConst\obj\Debug\net6.0\ref\MetConst.dll

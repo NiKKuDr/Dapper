@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\bin\Debug\net5.0\Average_Value_Number.exe
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\bin\Debug\net5.0\Average_Value_Number.deps.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\bin\Debug\net5.0\Average_Value_Number.runtimeconfig.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\bin\Debug\net5.0\Average_Value_Number.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\bin\Debug\net5.0\Average_Value_Number.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\bin\Debug\net5.0\ref\Average_Value_Number.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\bin\Debug\net5.0\Average_Value_Number.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\Average_Value_Number.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\Average_Value_Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\Average_Value_Number.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\Average_Value_Number.AssemblyInfo.cs
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\Average_Value_Number.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\Average_Value_Number.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\ref\Average_Value_Number.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\Average_Value_Number.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\Average_Value_Number\obj\Debug\net5.0\Average_Value_Number.genruntimeconfig.cache

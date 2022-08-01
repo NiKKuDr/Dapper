@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\ArrayAndLists\bin\Debug\net5.0\ArrayAndLists.exe
+C:\Users\nikol\Workspace\ArrayAndLists\bin\Debug\net5.0\ArrayAndLists.deps.json
+C:\Users\nikol\Workspace\ArrayAndLists\bin\Debug\net5.0\ArrayAndLists.runtimeconfig.json
+C:\Users\nikol\Workspace\ArrayAndLists\bin\Debug\net5.0\ArrayAndLists.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\ArrayAndLists\bin\Debug\net5.0\ArrayAndLists.dll
+C:\Users\nikol\Workspace\ArrayAndLists\bin\Debug\net5.0\ref\ArrayAndLists.dll
+C:\Users\nikol\Workspace\ArrayAndLists\bin\Debug\net5.0\ArrayAndLists.pdb
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ArrayAndLists.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ArrayAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ArrayAndLists.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ArrayAndLists.AssemblyInfo.cs
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ArrayAndLists.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ArrayAndLists.dll
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ref\ArrayAndLists.dll
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ArrayAndLists.pdb
+C:\Users\nikol\Workspace\ArrayAndLists\obj\Debug\net5.0\ArrayAndLists.genruntimeconfig.cache

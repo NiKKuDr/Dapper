@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "First_Finding the maximumNumber/1.0.0": {
+        "runtime": {
+          "First_Finding the maximumNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "First_Finding the maximumNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

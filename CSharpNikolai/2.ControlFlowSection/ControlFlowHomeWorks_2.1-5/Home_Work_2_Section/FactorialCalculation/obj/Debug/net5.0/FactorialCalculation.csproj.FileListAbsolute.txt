@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\bin\Debug\net5.0\FactorialCalculation.exe
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\bin\Debug\net5.0\FactorialCalculation.deps.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\bin\Debug\net5.0\FactorialCalculation.runtimeconfig.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\bin\Debug\net5.0\FactorialCalculation.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\bin\Debug\net5.0\FactorialCalculation.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\bin\Debug\net5.0\ref\FactorialCalculation.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\bin\Debug\net5.0\FactorialCalculation.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\FactorialCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\FactorialCalculation.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\FactorialCalculation.AssemblyInfo.cs
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\FactorialCalculation.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\FactorialCalculation.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\ref\FactorialCalculation.dll
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\FactorialCalculation.pdb
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\FactorialCalculation.genruntimeconfig.cache
+C:\Users\nikol\Workspace\CSharpNikolai\ControlFlowSection\ControlFlowHomeWorks_2.1-5\Home_Work_2_Section\FactorialCalculation\obj\Debug\net5.0\FactorialCalculation.csproj.AssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GeronFormula/1.0.0": {
+        "runtime": {
+          "GeronFormula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeronFormula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

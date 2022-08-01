@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\Kud.FirstApp\bin\Debug\net5.0\Kud.FirstApp.exe
+C:\Users\nikol\Workspace\Kud.FirstApp\bin\Debug\net5.0\Kud.FirstApp.deps.json
+C:\Users\nikol\Workspace\Kud.FirstApp\bin\Debug\net5.0\Kud.FirstApp.runtimeconfig.json
+C:\Users\nikol\Workspace\Kud.FirstApp\bin\Debug\net5.0\Kud.FirstApp.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\Kud.FirstApp\bin\Debug\net5.0\Kud.FirstApp.dll
+C:\Users\nikol\Workspace\Kud.FirstApp\bin\Debug\net5.0\ref\Kud.FirstApp.dll
+C:\Users\nikol\Workspace\Kud.FirstApp\bin\Debug\net5.0\Kud.FirstApp.pdb
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\Kud.FirstApp.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\Kud.FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\Kud.FirstApp.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\Kud.FirstApp.AssemblyInfo.cs
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\Kud.FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\Kud.FirstApp.dll
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\ref\Kud.FirstApp.dll
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\Kud.FirstApp.pdb
+C:\Users\nikol\Workspace\Kud.FirstApp\obj\Debug\net5.0\Kud.FirstApp.genruntimeconfig.cache

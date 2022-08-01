@@ -1,0 +1,11 @@
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\bin\Debug\net5.0\MyLib.deps.json
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\bin\Debug\net5.0\MyLib.dll
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\bin\Debug\net5.0\ref\MyLib.dll
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\bin\Debug\net5.0\MyLib.pdb
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\obj\Debug\net5.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfo.cs
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\obj\Debug\net5.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\obj\Debug\net5.0\MyLib.dll
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\obj\Debug\net5.0\ref\MyLib.dll
+C:\Users\nikol\Workspace\CodeBlog\Kud.HelloWorld\MyLib\obj\Debug\net5.0\MyLib.pdb
