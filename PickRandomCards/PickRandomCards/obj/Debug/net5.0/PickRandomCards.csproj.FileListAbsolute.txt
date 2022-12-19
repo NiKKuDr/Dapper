@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\bin\Debug\net5.0\PickRandomCards.exe
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\bin\Debug\net5.0\PickRandomCards.deps.json
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\bin\Debug\net5.0\PickRandomCards.runtimeconfig.json
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\bin\Debug\net5.0\PickRandomCards.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\bin\Debug\net5.0\PickRandomCards.dll
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\bin\Debug\net5.0\ref\PickRandomCards.dll
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\bin\Debug\net5.0\PickRandomCards.pdb
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\PickRandomCards.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\PickRandomCards.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\PickRandomCards.AssemblyInfo.cs
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\PickRandomCards.dll
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\ref\PickRandomCards.dll
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\PickRandomCards.pdb
+C:\Users\nikol\Workspace\PickRandomCards\PickRandomCards\obj\Debug\net5.0\PickRandomCards.genruntimeconfig.cache

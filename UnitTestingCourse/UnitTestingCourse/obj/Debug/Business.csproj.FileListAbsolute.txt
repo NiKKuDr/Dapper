@@ -1,0 +1,11 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\UnitTestingCourse\bin\Debug\UnitTestingCourse.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\UnitTestingCourse\bin\Debug\UnitTestingCourse.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\UnitTestingCourse\obj\Debug\UnitTestingCourse.dll
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\UnitTestingCourse\obj\Debug\UnitTestingCourse.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\UnitTestingCourse\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Workspace\UnitTestingCourse\UnitTestingCourse\bin\Debug\UnitTestingCourse.dll
+C:\Users\nikol\Workspace\UnitTestingCourse\UnitTestingCourse\bin\Debug\UnitTestingCourse.pdb
+C:\Users\nikol\Workspace\UnitTestingCourse\UnitTestingCourse\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\UnitTestingCourse\UnitTestingCourse\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\UnitTestingCourse\UnitTestingCourse\obj\Debug\UnitTestingCourse.dll
+C:\Users\nikol\Workspace\UnitTestingCourse\UnitTestingCourse\obj\Debug\UnitTestingCourse.pdb

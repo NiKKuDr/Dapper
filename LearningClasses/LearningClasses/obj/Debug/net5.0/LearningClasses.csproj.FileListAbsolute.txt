@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\bin\Debug\net5.0\LearningClasses.exe
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\bin\Debug\net5.0\LearningClasses.deps.json
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\bin\Debug\net5.0\LearningClasses.runtimeconfig.json
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\bin\Debug\net5.0\LearningClasses.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\bin\Debug\net5.0\LearningClasses.dll
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\bin\Debug\net5.0\ref\LearningClasses.dll
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\bin\Debug\net5.0\LearningClasses.pdb
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\LearningClasses.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\LearningClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\LearningClasses.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\LearningClasses.AssemblyInfo.cs
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\LearningClasses.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\LearningClasses.dll
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\ref\LearningClasses.dll
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\LearningClasses.pdb
+C:\Users\nikol\Workspace\LearningClasses\LearningClasses\obj\Debug\net5.0\LearningClasses.genruntimeconfig.cache

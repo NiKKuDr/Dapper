@@ -1,0 +1,18 @@
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe.config
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.pdb
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\obj\Debug\Sticks.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\obj\Debug\Sticks.exe
+C:\Users\Илья\Documents\Visual Studio 2017\Projects\UnitTestingCourse\Sticks\obj\Debug\Sticks.pdb
+C:\Users\Илья\documents\visual studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.dll
+C:\Users\Илья\documents\visual studio 2017\Projects\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.pdb
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe.config
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\bin\Debug\Sticks.exe
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\bin\Debug\Sticks.pdb
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.dll
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\bin\Debug\Sticks.Core.pdb
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\obj\Debug\Sticks.csproj.CopyComplete
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\obj\Debug\Sticks.exe
+C:\Users\nikol\Workspace\UnitTestingCourse\Sticks\obj\Debug\Sticks.pdb

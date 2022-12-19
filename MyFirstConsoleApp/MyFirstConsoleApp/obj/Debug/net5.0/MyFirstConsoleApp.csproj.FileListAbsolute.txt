@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.exe
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.deps.json
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.dll
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net5.0\ref\MyFirstConsoleApp.dll
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.pdb
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.dll
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\ref\MyFirstConsoleApp.dll
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.pdb
+C:\Users\nikol\Workspace\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.genruntimeconfig.cache

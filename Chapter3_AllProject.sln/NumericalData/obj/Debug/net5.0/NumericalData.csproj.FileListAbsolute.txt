@@ -1,0 +1,16 @@
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\bin\Debug\net5.0\NumericalData.exe
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\bin\Debug\net5.0\NumericalData.deps.json
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\bin\Debug\net5.0\NumericalData.runtimeconfig.json
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\bin\Debug\net5.0\NumericalData.runtimeconfig.dev.json
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\bin\Debug\net5.0\NumericalData.dll
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\bin\Debug\net5.0\ref\NumericalData.dll
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\bin\Debug\net5.0\NumericalData.pdb
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\NumericalData.csproj.AssemblyReference.cache
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\NumericalData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\NumericalData.AssemblyInfoInputs.cache
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\NumericalData.AssemblyInfo.cs
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\NumericalData.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\NumericalData.dll
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\ref\NumericalData.dll
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\NumericalData.pdb
+C:\Users\nikol\Workspace\Chapter3_AllProject.sln\NumericalData\obj\Debug\net5.0\NumericalData.genruntimeconfig.cache
